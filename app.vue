@@ -2023,6 +2023,7 @@ h3 {
 
 .contain {
   max-width: 120rem;
+  width: calc(100% - 3rem);
   margin-left: auto;
   margin-right: auto;
 }
