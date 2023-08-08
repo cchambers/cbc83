@@ -1,3 +1,9 @@
+<script setup>
+useHead({
+  title: "Chris Chambers",
+});
+</script>
+
 <template>
   <div>
     <div class="contain">
