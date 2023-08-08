@@ -152,6 +152,59 @@ useHead({
             <li>Collaboration</li>
           </ul>
         </div>
+        <div class="skill">
+          <h3>Data Engineer</h3>
+          <ul>
+            <li>Database Design & Modeling</li>
+            <li>Data Integration</li>
+            <li>Database Management Systems (DBMS)</li>
+            <li>API Development & Management</li>
+            <li>Data Security & Compliance</li>
+            <li>Performance Tuning</li>
+            <li>Data Migration & Transformation</li>
+            <li>Backup & Recovery</li>
+            <li>Cloud Storage (Computing)</li>
+            <li>Real-time Data Processing</li>
+            <li>Business Intelligence (BI) Integration</li>
+            <li>Scalability & High Availability</li>
+          </ul>
+        </div>
+        <div class="skill">
+          <h3>Leadership</h3>
+          <ul>
+            <li>Strategic Planning & Vision</li>
+            <li>Team Building & Development</li>
+            <li>Conflict Resolution:</li>
+            <li>Change Management</li>
+            <li>Decision Making & Problem Solving</li>
+            <li>Mentoring & Coaching</li>
+            <li>Project Management</li>
+            <li>Cross-Functional</li>
+            <li>Agile Leadership</li>
+            <li>Innovation</li>
+            <li>Crisis Management</li>
+            <li>Stakeholder Engagement:</li>
+            <li>Talent Acquisition & Retention</li>
+          </ul>
+        </div>
+        <div class="skill">
+          <h3>Quality Assurance</h3>
+          <ul>
+            <li>Test Automation</li>
+            <li>Manual Testing</li>
+            <li>Regression Testing</li>
+            <li>Performance Testing</li>
+            <li>Compliance & Standards</li>
+            <li>Defect Tracking & Management</li>
+            <li>Root Cause Analysis</li>
+            <li>Risk Management</li>
+            <li>Process Improvement</li>
+            <li>User Acceptance Testing (UAT)</li>
+            <li>Preventive & Corrective Actions</li>
+            <li>Traceability</li>
+            <li>Agile & Scrum Methodologies</li>
+          </ul>
+        </div>
       </div>
       <h2>Work History</h2>
       <div class="logos">
@@ -1976,7 +2029,7 @@ useHead({
     @content;
   }
 }
-@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Geologica&family=Open+Sans&display=swap");
 
 @mixin box_shadow($level) {
   @if $level == 1 {
@@ -2010,6 +2063,7 @@ h1 {
   text-align: center;
   color: $highlight;
   font-size: 6rem;
+  font-family: "Geologica", "Open Sans", serif;
 }
 
 h2 {
