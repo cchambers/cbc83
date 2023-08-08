@@ -23,6 +23,8 @@ useHead({
             <li>Content Management Systems (CMS)</li>
             <li>API Development and Integration</li>
             <li>Version Control</li>
+            <li>Mentorship/Technical Training</li>
+            <li>Knowledge Sharing</li>
           </ul>
         </div>
         <div class="skill">
@@ -46,6 +48,7 @@ useHead({
           <ul>
             <li>Enterprise Architecture</li>
             <li>Cloud Solutions</li>
+            <li>Payment Portals</li>
             <li>Scalability and Performance Optimization</li>
             <li>API Architecture</li>
             <li>DevOps Practices</li>
