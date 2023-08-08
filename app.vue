@@ -174,7 +174,7 @@ useHead({
           <ul>
             <li>Strategic Planning & Vision</li>
             <li>Team Building & Development</li>
-            <li>Conflict Resolution:</li>
+            <li>Conflict Resolution</li>
             <li>Change Management</li>
             <li>Decision Making & Problem Solving</li>
             <li>Mentoring & Coaching</li>
@@ -183,7 +183,7 @@ useHead({
             <li>Agile Leadership</li>
             <li>Innovation</li>
             <li>Crisis Management</li>
-            <li>Stakeholder Engagement:</li>
+            <li>Stakeholder Engagement</li>
             <li>Talent Acquisition & Retention</li>
           </ul>
         </div>
