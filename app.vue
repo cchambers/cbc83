@@ -1998,7 +1998,7 @@ useHead({
           </svg>
         </div>
       </div>
-      <h2>Portfolio Links</h2>
+      <h2>Links</h2>
       <div class="links">
         <ul>
           <li>
@@ -2062,12 +2062,16 @@ body {
 h1 {
   text-align: center;
   color: $highlight;
-  font-size: 6rem;
+  font-size: 4.8rem;
   font-family: "Geologica", "Open Sans", serif;
+  text-transform: uppercase;
+  margin-bottom: 0;
 }
 
 h2 {
   color: $accent-primary;
+  text-align: center;
+  margin-bottom: 0.25rem;
 }
 
 h3 {
