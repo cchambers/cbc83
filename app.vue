@@ -2084,6 +2084,7 @@ useHead({
         </ul>
       </div>
     </div>
+    <div class="footer"></div>
   </div>
 </template>
 
@@ -2146,6 +2147,10 @@ h2 {
 h3 {
   margin-top: 0;
   margin-bottom: 0.75rem;
+}
+
+.footer {
+  padding-top: 8rem;
 }
 
 .contain {
