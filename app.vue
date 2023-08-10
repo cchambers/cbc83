@@ -170,7 +170,25 @@ useHead({
           </ul>
         </div>
         <div class="skill">
-          <h3>Leadership</h3>
+          <h3>Quality Assurance</h3>
+          <ul>
+            <li>Test Automation</li>
+            <li>Manual Testing</li>
+            <li>Regression Testing</li>
+            <li>Performance Testing</li>
+            <li>Compliance & Standards</li>
+            <li>Defect Tracking & Management</li>
+            <li>Root Cause Analysis</li>
+            <li>Risk Management</li>
+            <li>Process Improvement</li>
+            <li>User Acceptance Testing (UAT)</li>
+            <li>Preventive & Corrective Actions</li>
+            <li>Traceability</li>
+            <li>Agile & Scrum Methodologies</li>
+          </ul>
+        </div>
+        <div class="skill">
+          <h3>Leadership Qualities</h3>
           <ul>
             <li>Strategic Planning & Vision</li>
             <li>Team Building & Development</li>
@@ -187,22 +205,75 @@ useHead({
             <li>Talent Acquisition & Retention</li>
           </ul>
         </div>
+      </div>
+      <h2>Proficiencies</h2>
+      <div class="skills">
         <div class="skill">
-          <h3>Quality Assurance</h3>
+          <h3>Frameworks</h3>
           <ul>
-            <li>Test Automation</li>
-            <li>Manual Testing</li>
-            <li>Regression Testing</li>
-            <li>Performance Testing</li>
-            <li>Compliance & Standards</li>
-            <li>Defect Tracking & Management</li>
-            <li>Root Cause Analysis</li>
-            <li>Risk Management</li>
-            <li>Process Improvement</li>
-            <li>User Acceptance Testing (UAT)</li>
-            <li>Preventive & Corrective Actions</li>
-            <li>Traceability</li>
-            <li>Agile & Scrum Methodologies</li>
+            <li>Vue/Nuxt, React/Next (more time)</li>
+            <li>Angular, Backbone (less time)</li>
+            <li>LangchainJS</li>
+            <li>Shine Components (creator)</li>
+            <li>BasiCSS (creator)</li>
+            <li>TailwindCSS, Bootstrap</li>
+          </ul>
+        </div>
+        <div class="skill">
+          <h3>SDKs & APIs</h3>
+          <ul>
+            <li>Discord</li>
+            <li>Stripe</li>
+            <li>Open AI</li>
+            <li>Source</li>
+            <li>Firebase</li>
+            <li>Supabase</li>
+            <li>Twilio</li>
+            <li>Google Maps</li>
+            <li>Unity</li>
+            <li>Google Analytics</li>
+            <li>Twitter</li>
+          </ul>
+        </div>
+        <div class="skill">
+          <h3>Languages</h3>
+          <ul>
+            <li>JavaScript/TypeScript</li>
+            <li>HTML, JSX</li>
+            <li>CSS, SASS</li>
+            <li>Node.js</li>
+            <li>PHP, SQL</li>
+            <li>Ruby on Rails</li>
+            <li>Learning: RUST & Python</li>
+            <!-- <li>GraphQL</li> -->
+          </ul>
+        </div>
+        <div class="skill">
+          <h3>Software</h3>
+          <ul>
+            <li>VS Code, Sublime</li>
+            <li>XCode, Android Studio</li>
+            <li>Git, GitHub, BitBucket, GitLab</li>
+            <li>Webpack, Babel</li>
+            <li>Jira, Mantis, Trello, Slack, Confluence, Asana</li>
+            <li>Jenkins, Postman, Wireshark</li>
+            <li>Ableton, FL Studio</li>
+            <li>Figma, Sketch</li>
+            <li>Illustrator, Photoshop</li>
+            <li>Premiere, After Effects</li>
+            <li>Microsoft Word, Excel, Powerpoint</li>
+            <li>Google Docs, Sheets</li>
+          </ul>
+        </div>
+        <div class="skill">
+          <h3>Databases</h3>
+          <ul>
+            <li>MySQL</li>
+            <li>PostgreSQL</li>
+            <li>Mongo</li>
+            <li>Redis</li>
+            <li>Firebase</li>
+            <li>Supabase</li>
           </ul>
         </div>
       </div>
