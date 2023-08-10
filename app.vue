@@ -211,12 +211,15 @@ useHead({
         <div class="skill">
           <h3>Frameworks</h3>
           <ul>
-            <li>Vue/Nuxt, React/Next (more time)</li>
-            <li>Angular, Backbone (less time)</li>
+            <li>Vue/Nuxt (more time)</li>
+            <li>React/Next</li>
+            <li>Backbone</li>
+            <li>Angular (less time)</li>
             <li>LangchainJS</li>
-            <li>Shine Components (creator)</li>
-            <li>BasiCSS (creator)</li>
-            <li>TailwindCSS, Bootstrap</li>
+            <li>Shine Web Components (creator)</li>
+            <li>Basi.css (creator)</li>
+            <li>Tailwind</li>
+            <li>Bootstrap</li>
           </ul>
         </div>
         <div class="skill">
