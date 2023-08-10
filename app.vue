@@ -228,12 +228,14 @@ useHead({
             <li>Discord</li>
             <li>Stripe</li>
             <li>Open AI</li>
-            <li>Source</li>
+            <li>Twitter</li>
+            <li>Facebook</li>
+            <li>Instagram</li>
             <li>Firebase, Supabase</li>
             <li>Twilio</li>
             <li>Google Maps, Analytics</li>
+            <li>Source</li>
             <li>Unity</li>
-            <li>Twitter</li>
           </ul>
         </div>
         <div class="skill">
