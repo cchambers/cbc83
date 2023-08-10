@@ -206,7 +206,7 @@ useHead({
           </ul>
         </div>
       </div>
-      <h2>Proficiencies</h2>
+      <h2>Tool Proficiencies</h2>
       <div class="skills">
         <div class="skill">
           <h3>Frameworks</h3>
