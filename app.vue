@@ -226,12 +226,10 @@ useHead({
             <li>Stripe</li>
             <li>Open AI</li>
             <li>Source</li>
-            <li>Firebase</li>
-            <li>Supabase</li>
+            <li>Firebase, Supabase</li>
             <li>Twilio</li>
-            <li>Google Maps</li>
+            <li>Google Maps, Analytics</li>
             <li>Unity</li>
-            <li>Google Analytics</li>
             <li>Twitter</li>
           </ul>
         </div>
@@ -239,7 +237,7 @@ useHead({
           <h3>Languages</h3>
           <ul>
             <li>JavaScript/TypeScript</li>
-            <li>HTML, JSX</li>
+            <li>HTML</li>
             <li>CSS, SASS</li>
             <li>Node.js</li>
             <li>PHP, SQL</li>
